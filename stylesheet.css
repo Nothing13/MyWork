@@ -1,0 +1,35 @@
+body{
+background:grey;
+}
+form{
+background: grey;
+position:relative;
+
+}
+h1 {
+color:white;
+}
+textarea{
+background: teal;}
+
+.pp {
+color:white;
+
+}
+
+p#asd {
+color:red;
+}
+
+
+
+
+
+a#popp{
+    text-decoration: blink
+;
+    color: #dd0012;
+}
+a#popp:hover {
+    color: #00ff00;
+}
